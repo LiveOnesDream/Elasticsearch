@@ -1,1 +1,1 @@
-# elasticsearch HighLeve API
+# elasticsearch HighLevel API
